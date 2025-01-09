@@ -1,6 +1,6 @@
 # JavaScript Study
 
-This repository contains JavaScript exercises and it's organized into various sections to facilitate learning and practice of different concepts.
+This repository contains JavaScript Freecodecamp exercises and it's organized into various sections to facilitate learning and practice of different concepts.
 
 ## Repository Structure
 
